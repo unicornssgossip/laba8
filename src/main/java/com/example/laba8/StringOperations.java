@@ -94,7 +94,11 @@ public class StringOperations {
         System.out.println("Dynamic Collection with limited size: " + staticStrings);
     }
 
-   
+    public class HelloWorld {
+        public static void main(String[] args) {
+            System.out.println("unicorn");
+        }
+    }
 
     // Метод compareInnerObjects
     public static void compareInnerObjects(ArrayList<String> strings, int firstIndex, int secondIndex) {
